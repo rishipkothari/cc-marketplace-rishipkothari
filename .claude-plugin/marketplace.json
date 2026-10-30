@@ -1,0 +1,12 @@
+{
+  "name": "rishipkothari-plugins",
+  "description": "Rishi Kothari's personal Claude plugins",
+  "owner": { "name": "Rishi Kothari" },
+  "plugins": [
+    {
+      "name": "stack-playbook",
+      "source": { "source": "github", "repo": "rishipkothari/dev-stack-playbook" },
+      "description": "Interactive, learning-oriented walkthrough for choosing, setting up and tracking a project's tech stack"
+    }
+  ]
+}
